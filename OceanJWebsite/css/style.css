@@ -3,6 +3,8 @@ header {
   justify-content: space-between;
   background-color: black;
   max-width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 ul {
   color: antiquewhite;
@@ -22,7 +24,7 @@ ul {
 }
 
 .iconic {
-  width: 50%;
+  width: 30%;
 }
 
 .account {
