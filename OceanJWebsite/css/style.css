@@ -1,0 +1,48 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  max-width: 100%;
+}
+ul {
+  color: antiquewhite;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.first-div {
+  max-width: 40%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.second-div {
+  max-width: 60%;
+}
+
+.iconic {
+  width: 50%;
+}
+
+.account {
+  color: aliceblue;
+}
+/* header {
+  border: 1px solid #f338a5;
+  background-color: black;
+  height: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+} */
+
+/* .first-div {
+  display: inline-block;
+  width: 40%;
+  height: 50%;
+}
+.second-div {
+  display: inline-block;
+  width: 60%;
+  height: 50%;
+} */
