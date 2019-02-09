@@ -20,7 +20,8 @@ ul {
 }
 
 .second-div {
-  max-width: 60%;
+  /* max-width: 60%; */
+  width: 60%;
 }
 
 .iconic {
@@ -30,21 +31,15 @@ ul {
 .account {
   color: aliceblue;
 }
-/* header {
-  border: 1px solid #f338a5;
-  background-color: black;
-  height: 100%;
-  max-width: 100%;
-  box-sizing: border-box;
-} */
 
-/* .first-div {
-  display: inline-block;
-  width: 40%;
-  height: 50%;
+nav ul li {
+  padding: 20px 10px;
+  text-align: center;
+  text-decoration: none;
 }
-.second-div {
-  display: inline-block;
-  width: 60%;
-  height: 50%;
-} */
+img,
+embed,
+object,
+video {
+  max-width: 100%;
+}
