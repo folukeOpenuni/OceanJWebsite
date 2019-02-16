@@ -20,7 +20,7 @@ ul {
 }
 
 .second-div {
-  /* max-width: 60%; */
+  /* max-width: 60%; 
   width: 60%;
 }
 
@@ -43,3 +43,15 @@ object,
 video {
   max-width: 100%;
 }
+
+/* footer {
+  background: #818181;
+}
+.btn-floating {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+} */ */

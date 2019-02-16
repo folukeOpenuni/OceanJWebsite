@@ -1,0 +1,43 @@
+.container {
+  padding-top: 50px;
+  padding-bottom: 70px;
+  padding-left: 20px;
+}
+
+.bg-4 {
+  background-color: black;
+  color: #fff;
+}
+
+.icon {
+  display: flex;
+  justify-content: row-reverse;
+}
+.image {
+  width: 50%;
+}
+
+.media-div {
+  padding-bottom: 70px;
+}
+.copyright {
+  padding-top: 50px;
+}
+.oceanj-img {
+  width: 70%;
+  padding-top: 20px;
+}
+
+.logo {
+  display: flex;
+  justify-content: space-around;
+}
+.paypal {
+  width: 75%;
+  height: 50%;
+}
+.third-col,
+.second-col {
+  margin-left: 70px;
+  padding-bottom: 60px;
+}
